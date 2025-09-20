@@ -22,7 +22,7 @@ To run this project, ensure you have the following installed:
 #### How to run:
 You can load these scripts into a text editor like Sublime, N++ or some ide like VS.
 Once loaded, run tasks 1-3. When done, run summary.py to get results/information.
-Whn running summary.py make sure to scroll all the way to the end as some sections take up space.
+When running summary.py make sure to scroll all the way to the end as some sections take up space.
 
 can also run by launching through cmd, but more time consuming
 ```bash
@@ -30,3 +30,4 @@ python task1.py
 python task2.py	
 python task3.py	
 python summary.py 
+
